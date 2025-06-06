@@ -284,10 +284,3 @@ or
 - You can build your own end-2-end real time ML system, by plugging in your own real time data source.
 
 BOOM!
-
-## Wanna learn more Real World ML/MLOps?
-Subscribe for free to my newsletter to get notified when I publish new articles and courses:
-
-👉👉🏻👉🏼👉🏽👉🏾👉🏿 [Subscribe](https://paulabartabajo.substack.com/)
-
-👉👉🏻👉🏼👉🏽👉🏾👉🏿 [Courses](https://www.realworldml.net/courses)
